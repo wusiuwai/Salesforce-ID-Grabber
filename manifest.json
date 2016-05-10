@@ -1,11 +1,12 @@
 {
   "name": "Salesforce ID Grabber",
   "description": "Copy the Salesforce ID from a link to the clipboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "permissions": ["contextMenus"],
   "background": {
     "persistent": false,
     "scripts": ["background.js"]
   },
-  "manifest_version": 2
+  "manifest_version": 2,
+  "icons": { "16": "icon32.png", "32": "icon32.png", "48": "icon32.png", "128": "icon32.png" }
 }
