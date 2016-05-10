@@ -1,6 +1,6 @@
 {
   "name": "Salesforce ID Grabber",
-  "description": "Copy the Salesforce ID of the link to the clipboard",
+  "description": "Copy the Salesforce ID from a link to the clipboard",
   "version": "0.0.1",
   "permissions": ["contextMenus"],
   "background": {
